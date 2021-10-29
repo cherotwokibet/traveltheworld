@@ -4,7 +4,7 @@ Travel the World is a web app that shows amazing placing to visit. I built it fo
 
 
 ## Live Site
-View page https://burgerduka.netlify.app/
+View page https://traveldaworld.netlify.app/
 
 ## How to use the Application
 Built for demo purposes only. NOT FULLY FUNCTIONAL
